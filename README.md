@@ -3,11 +3,11 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
+  <img src="(https://te.legra.ph/file/71f82425397df26b1ad6d.jpg)">
 </p>
 
 <p align="center">
-<a href="https://github.com/AnonymousX1025/AnonXMusic/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/DIGITALBOTXD/XD_BOTZ/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/AnonymousX1025/AnonXMusic/network/members"> <img src="https://img.shields.io/github/forks/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/AnonymousX1025/AnonXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
+  <img src="(https://graph.org/file/bb2ebd908bebb23a369c3.jpg)">
 </p>
 
 <h3 align="center">
@@ -28,7 +28,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/AnonymousX1025/AnonXMusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/DIGITALBOTXD/XD_BOTZ/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -61,11 +61,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/XD_MUSIC_BOTZ"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/XD_BOTZZ"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
@@ -81,4 +81,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://github.com/TheHamkerCat"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="TheHamkerCat" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ XD](https://github.com/DIGITALBOTXD) ғᴏʀ [ϰ∂ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/DIGITALBOTXD)_ </b>
